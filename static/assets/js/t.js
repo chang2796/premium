@@ -397,3 +397,10 @@ function decodeXor(input) {
       .join("") + (search.length ? `?${search.join("?")}` : "")
   );
 }
+ var answer
+var answer1 = 'm+7'
+password = prompt('If 𝑥 is the average (arithmetic mean) of 𝑚 and 9 , 𝑦 is the average of 2 𝑚 and 15 , and 𝑧 is the average of 3 𝑚 and 18 , what is the average of 𝑥 , 𝑦 , and 𝑧 in terms of 𝑚, ' ')
+if (password == pass1) alert('Answered Correct! This site is made by you know who. that one guy that u know who does chromebook stuff')
+else {
+ window.location = 'google.com'
+}
