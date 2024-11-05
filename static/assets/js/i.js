@@ -61,3 +61,10 @@ function isUrl(val = "") {
   }
   return false;
 }
+ var answer
+var answer1 = '3/4'
+password = prompt('In the 𝑥 𝑦 -plane, the point ( 𝑝 , 𝑟 ) lies on the line with equation 𝑦 = 𝑥 + 𝑏 , where 𝑏 is a constant. The point with coordinates ( 2 𝑝 , 5 𝑟 ) lies on the line with equation 𝑦 = 2 𝑥 + 𝑏 . If 𝑝 ≠ 0 , what is the value of 𝑟 𝑝', ' ')
+if (password == pass1) alert('Answered Correct! This site is made by you know who. that one guy that u know who does chromebook stuff')
+else {
+ window.location = 'google.com'
+}
