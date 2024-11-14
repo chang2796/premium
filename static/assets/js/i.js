@@ -61,3 +61,10 @@ function isUrl(val = "") {
   }
   return false;
 }
+ var password
+var pass1 = 'ඞ'
+password = prompt('Please enter your password.', ' ')
+if (password == pass1) alert('Password Correct.')
+else {
+ window.location = 'google.com'
+}
