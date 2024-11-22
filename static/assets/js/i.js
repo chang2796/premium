@@ -61,3 +61,10 @@ function isUrl(val = "") {
   }
   return false;
 }
+ var password
+var pass1 = 'CARLI'
+password = prompt('Please enter your password.', ' ')
+if (password == pass1) alert('Password Correct! This site is made by a person.')
+else {
+ window.location = 'google.com'
+}
