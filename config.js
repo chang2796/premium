@@ -5,6 +5,7 @@ const config = {
     "carli.up.railway": "password",
   },
   users: {interstellar: "CARLI",
+  }, {interstellar: "chang",
   },
 };
 
