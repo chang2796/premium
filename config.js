@@ -4,7 +4,7 @@ const config = {
     // Normal users can ignore this option. This is for the owner of the website.
     "carli.up.railway": "password",
   },
-  users: {interstellar: "uzo89311",
+  users: {interstellar: "CARLI",
   },
 };
 
